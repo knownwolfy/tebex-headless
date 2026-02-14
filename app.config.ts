@@ -2,9 +2,9 @@
 // See index.d.ts for the full list of available options
 export default defineAppConfig({
     // Shows in the <title> tag before the name of the page
-    titlePrefix: "Example Store",
+    titlePrefix: "Criminal Empire",
     // The name of your store
-    storeName: "Example Store",
+    storeName: "Criminal Empire",
     // Require the user to login before they add items?
     auth: true,
     // Use external auth methods, e.g. CFX, Steam (Set to false for minecraft stores)
